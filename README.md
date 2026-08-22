@@ -224,6 +224,11 @@ Before final submission, verify the following:
 | Model View | `Screenshots/model-view.png` |
 
 ---
+<img width="1895" height="918" alt="Screenshot 2026-08-19 134622" src="https://github.com/user-attachments/assets/84158d04-f250-4193-8fd9-f758b54dc882" />
+<img width="1887" height="949" alt="Screenshot 2026-08-19 134647" src="https://github.com/user-attachments/assets/1b9737ea-03a8-484a-9052-fa3eeca43fb5" />
+<img width="1346" height="730" alt="Screenshot 2026-08-22 160802" src="https://github.com/user-attachments/assets/252e39d7-28f3-444c-8e00-15776c9ec030" />
+<img width="1289" height="724" alt="Screenshot 2026-08-22 160827" src="https://github.com/user-attachments/assets/9685a585-2462-457d-975b-cabf17ed72d0" />
+<img width="1283" height="724" alt="Screenshot 2026-08-22 160843" src="https://github.com/user-attachments/assets/dbc48bcf-f97e-492a-bea6-d51777c14698" />
 
 ## Video Walkthrough
 
